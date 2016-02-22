@@ -1,0 +1,1 @@
+cat testcase_1 | python3 equalchocolate.py
